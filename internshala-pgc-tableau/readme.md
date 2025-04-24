@@ -1,5 +1,5 @@
 # 📊 The Bike Haven - Sales Dashboard (Tableau Project)
-
+[Open Dashboard Image](https://github.com/SimranRayait51/internshala-ds-projects/blob/main/internshala-pgc-tableau/dashboard.md)
 ## 🧠 Project Motive
 The aim of this project is to transform static sales reports into an interactive, insightful, and visually appealing Tableau dashboard for **The Bike Haven**, a bike shop based in San Francisco. This dashboard enables better decision-making by tracking product sales, customer insights, budget comparison, and regional performance.
 
